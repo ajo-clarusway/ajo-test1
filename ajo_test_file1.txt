@@ -1,7 +1,4 @@
 this is a test file.
 2. oliver change
-<<<<<<< HEAD
 3.line oliver
-=======
-3. line james
->>>>>>> d0a9ea2e330e221cf16388061b5b82c4fff47c81
+4. line james
