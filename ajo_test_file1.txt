@@ -4,5 +4,5 @@ this is a test file.
 4. line james
 5. line stash-3
 6. line for stash-2
-7. line for stash-4
+7. line for stash-6
 
