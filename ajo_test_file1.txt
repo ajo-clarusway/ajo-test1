@@ -5,5 +5,5 @@ this is a test file.
 5. line stash-3
 6. line for stash-2
 7. line for stash-6
-9. olivers line
-8. line june2
+8. olivers line
+9. line june2
