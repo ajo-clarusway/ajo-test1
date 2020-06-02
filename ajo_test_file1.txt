@@ -7,3 +7,4 @@ this is a test file.
 7. line for stash-6
 8. olivers line
 9. line june2
+10. line for git fetch and pull
